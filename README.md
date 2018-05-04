@@ -6,7 +6,7 @@ Dot generator for npm dependencies
 ./main.py {package name}
 ```
 
-## How to generate png
+## How to generate a png
 You need to install graphviz first
 
 ```
