@@ -1,16 +1,15 @@
 # npm-deps-viz
 Dot generator for npm dependencies
 
+## Dependencies
+Graphviz
+```
+pip3 install graphviz
+```
+
 ## Usage
 ```
 ./main.py {package name}
-```
-
-## How to generate a png
-You need to install graphviz first
-
-```
-./main.py {package name} | dot -Tpng -o output.png
 ```
 
 ## Example with react
