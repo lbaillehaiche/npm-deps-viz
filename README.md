@@ -14,5 +14,5 @@ You need to install graphviz first
 ```
 
 ## Example with react
-![Image of Example](https://github.com/lbaillehaiche/npm-deps-viz/blob/master/assest/react.png)
+![Image of Example](https://github.com/lbaillehaiche/npm-deps-viz/blob/master/assets/react.png)
 
